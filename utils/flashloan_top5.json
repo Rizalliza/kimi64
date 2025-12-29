@@ -1,0 +1,71 @@
+[
+  {
+    "ok": true,
+    "legs": [
+      {
+        "ok": true,
+        "dyAtomic": "4887231016",
+        "dyHuman": "4.8872310168170403598566726612615526",
+        "dxHuman": "5",
+        "priceImpactPct": "0.0004887231016817040359856672661253360106",
+        "feePaid": "15000000",
+        "midPrice": "0.9803921568627450980392156862745098039215",
+        "execPrice": "0.9803873654597874342741570032620968104312",
+        "via": "math-cpmm",
+        "isSdkVerified": false
+      },
+      {
+        "ok": true,
+        "dyAtomic": "487254558",
+        "dyHuman": "487.25455811358766720020211861406547",
+        "dxHuman": "4.887231016",
+        "priceImpactPct": "0.00048725455811358766720020211861347175",
+        "feePaid": "14661693",
+        "midPrice": "100",
+        "execPrice": "99.99951274544188641233279979788138652825",
+        "via": "math-cpmm",
+        "isSdkVerified": false
+      },
+      {
+        "ok": true,
+        "dyAtomic": "4857904343",
+        "dyHuman": "4.8579043439107420318692561009513363",
+        "dxHuman": "487.254558",
+        "priceImpactPct": "0.00048579043439107420318692561009470687",
+        "feePaid": "1461763",
+        "midPrice": "0.01",
+        "execPrice": "0.009999951420956560892579681307438990529313",
+        "via": "math-cpmm",
+        "isSdkVerified": false
+      }
+    ],
+    "tokenA": "So11111111111111111111111111111111111111112",
+    "tokenB": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "tokenC": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "dxAtomic": "5000000000",
+    "outAtomic": "4857904343",
+    "profitAtomic": "-142095657",
+    "profitPct": "-2.84191314",
+    "isSdkVerified": false,
+    "pools": [
+      "33333333333333333333333333333333",
+      "22222222222222222222222222222222",
+      "11111111111111111111111111111111"
+    ],
+    "types": [
+      "cpmm",
+      "cpmm",
+      "cpmm"
+    ],
+    "vias": [
+      "math-cpmm",
+      "math-cpmm",
+      "math-cpmm"
+    ],
+    "dexes": [
+      "raydium",
+      "raydium",
+      "raydium"
+    ]
+  }
+]

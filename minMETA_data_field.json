@@ -1,0 +1,50 @@
+
+[
+    {
+    "poolAddress": "...",
+    "dex": "raydium",
+    "type": "cpmm",
+    "baseMint": "...",
+    "quoteMint": "...",
+    "baseDecimals": 9,
+    "quoteDecimals": 6,
+    "fee": 0.0025,
+    "vaults": { "xVault": "TOKEN_ACCOUNT_A", "yVault": "TOKEN_ACCOUNT_B" }
+  },
+  {
+    "poolAddress": "...",
+    "dex": "meteora",
+    "type": "dlmm",
+    "baseMint": "...",
+    "quoteMint": "...",
+    "baseDecimals": 9,
+    "quoteDecimals": 6,
+    "fee": 0.003,
+    "binStep": 80
+  },
+  {
+    "poolAddress": "...",
+    "dex": "orca",
+    "type": "whirlpool",
+    "baseMint": "...",
+    "quoteMint": "...",
+    "baseDecimals": 9,
+    "quoteDecimals": 6,
+    "fee": 0.003,
+    "tickSpacing": 64
+  },
+  {
+    "poolAddress": "...",
+    "dex": "raydium",
+    "type": "clmm",
+    "baseMint": "...",
+    "quoteMint": "...",
+    "baseDecimals": 9,
+    "quoteDecimals": 6,
+    "fee": 0.0005,
+    "tickSpacing": 64
+  }
+]  
+  
+  
+  

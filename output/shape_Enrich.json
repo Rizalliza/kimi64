@@ -1,0 +1,86 @@
+[
+  {
+    "poolAddress": "RAYDIUM_CPMM_POOL_STATE_PUBKEY",
+    "dex": "raydium",
+    "type": "cpmm",
+    "baseMint": "So11111111111111111111111111111111111111112",
+    "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "baseDecimals": 9,
+    "quoteDecimals": 6,
+    "fee": 0.0025,
+    "vaults": {
+      "xVault": "BASE_VAULT_TOKEN_ACCOUNT_PUBKEY",
+      "yVault": "QUOTE_VAULT_TOKEN_ACCOUNT_PUBKEY"
+    },
+    "xReserve": "123456789000",
+    "yReserve": "987654321000",
+    "reserveSource": "cache",
+    "hasReserves": true,
+    "isMathReady": true
+  },
+  {
+    "poolAddress": "METEORA_DLMM_POOL_PUBKEY",
+    "dex": "meteora",
+    "type": "dlmm",
+    "baseMint": "So11111111111111111111111111111111111111112",
+    "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "baseDecimals": 9,
+    "quoteDecimals": 6,
+    "fee": 0.0002,
+    "binStep": 20,
+    "vaults": {
+      "xVault": "DLMM_BASE_VAULT_TOKEN_ACCOUNT",
+      "yVault": "DLMM_QUOTE_VAULT_TOKEN_ACCOUNT"
+    },
+    "xReserve": "14197859436834",
+    "yReserve": "1778484983335",
+    "reserveSource": "cache",
+    "hasReserves": true,
+    "isMathReady": true,
+    "dlmm": {
+      "bins": []
+    }
+  },
+  {
+    "poolAddress": "ORCA_WHIRLPOOL_PUBKEY",
+    "dex": "orca",
+    "type": "whirlpool",
+    "baseMint": "So11111111111111111111111111111111111111112",
+    "quoteMint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "baseDecimals": 9,
+    "quoteDecimals": 9,
+    "fee": 0.003,
+    "tickSpacing": 64,
+    "vaults": null,
+    "hasReserves": false,
+    "isMathReady": false,
+    "clmm": {
+      "sqrtPriceX64": null,
+      "liquidity": null,
+      "currentTickIndex": null,
+      "tickArrays": []
+    },
+    "reserveSource": "none"
+  },
+  {
+    "poolAddress": "RAYDIUM_CLMM_POOL_STATE_PUBKEY",
+    "dex": "raydium",
+    "type": "clmm",
+    "baseMint": "So11111111111111111111111111111111111111112",
+    "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "baseDecimals": 9,
+    "quoteDecimals": 6,
+    "fee": 0.0005,
+    "tickSpacing": 64,
+    "vaults": null,
+    "hasReserves": false,
+    "isMathReady": false,
+    "clmm": {
+      "sqrtPriceX64": null,
+      "liquidity": null,
+      "currentTickIndex": null,
+      "tickArrays": []
+    },
+    "reserveSource": "none"
+  }
+]

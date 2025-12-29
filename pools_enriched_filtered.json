@@ -1,0 +1,90 @@
+[
+  {
+    "poolAddress": "AsSyvUnbfaZJPRrNh3kUuvZTeHKoMVWEoHz86f4Q5D9x",
+    "dex": "meteora",
+    "type": "dlmm",
+    "baseMint": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "baseDecimals": 6,
+    "quoteDecimals": 9,
+    "feeBps": 20,
+    "slippageBps": 10,
+    "vaults": {
+      "xVault": "2xRYxYShMQG8X9bSvjNmFoGPxhT7cuRu33vLTGATWgjy",
+      "yVault": "8iYZxkLjdKYREtFC21zttouLYR5BHH5LqPXaLERdrGxv"
+    },
+    "xReserve": "3046596139683",
+    "yReserve": "2958273243197",
+    "liquidity": "1159216.3901835487",
+    "reserveSource": "computed",
+    "updatedAtMs": 1767001622138
+  },
+  {
+    "poolAddress": "Czfq3xZZDmsdGdUyrNLtRhGc47cXcZtLG4crryfu44zE",
+    "dex": "orca",
+    "type": "whirlpool",
+    "baseMint": "So11111111111111111111111111111111111111112",
+    "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "baseDecimals": 9,
+    "quoteDecimals": 6,
+    "feeBps": 30,
+    "slippageBps": 10,
+    "vaults": {
+      "xVault": null,
+      "yVault": null
+    },
+    "xReserve": "0",
+    "yReserve": "0",
+    "liquidity": "32526289.161982324",
+    "reserveSource": "computed",
+    "updatedAtMs": 1767001622138,
+    "clmm": {
+      "sqrtPriceX64": null,
+      "liquidity": null
+    }
+  },
+  {
+    "poolAddress": "AgFnRLUScRD2E4nWQxW73hdbSN7eKEUb2jHX7tx9YTYc",
+    "dex": "raydium",
+    "type": "cpmm",
+    "baseMint": "7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "baseDecimals": 9,
+    "quoteDecimals": 9,
+    "feeBps": 25,
+    "slippageBps": 10,
+    "vaults": {
+      "xVault": null,
+      "yVault": null
+    },
+    "xReserve": "438605515.0079666",
+    "yReserve": "84537.777946288",
+    "liquidity": "21063781.37",
+    "reserveSource": "computed",
+    "updatedAtMs": 1767001622138
+  },
+  {
+    "poolAddress": "AS5MV3ear4NZPMWXbCsEz3AdbCaXEnq4ChdaWsvLgkcM",
+    "dex": "raydium",
+    "type": "clmm",
+    "baseMint": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+    "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "baseDecimals": 6,
+    "quoteDecimals": 6,
+    "feeBps": 1,
+    "slippageBps": 10,
+    "vaults": {
+      "xVault": null,
+      "yVault": null
+    },
+    "xReserve": "21067353.875889",
+    "yReserve": "25261084.470782",
+    "liquidity": "46328808.93",
+    "reserveSource": "computed",
+    "updatedAtMs": 1767001622138,
+    "clmm": {
+      "sqrtPriceX64": "1.0000175903558295",
+      "liquidity": null
+    }
+  }
+]

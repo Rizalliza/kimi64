@@ -1,0 +1,47 @@
+[
+  {
+    "poolAddress": "11111111111111111111111111111111",
+    "dex": "raydium",
+    "type": "cpmm",
+    "baseMint": "So11111111111111111111111111111111111111112",
+    "quoteMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "baseDecimals": 9,
+    "quoteDecimals": 6,
+    "fee": 0.0025,
+    "xReserve": "1000000000000000",
+    "yReserve": "100000000000000",
+    "reserveSource": "cache",
+    "hasReserves": true,
+    "isMathReady": true
+  },
+  {
+    "poolAddress": "22222222222222222222222222222222",
+    "dex": "raydium",
+    "type": "cpmm",
+    "baseMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "quoteMint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "baseDecimals": 6,
+    "quoteDecimals": 9,
+    "fee": 0.0025,
+    "xReserve": "100000000000000",
+    "yReserve": "1000000000000000",
+    "reserveSource": "cache",
+    "hasReserves": true,
+    "isMathReady": true
+  },
+  {
+    "poolAddress": "33333333333333333333333333333333",
+    "dex": "raydium",
+    "type": "cpmm",
+    "baseMint": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "baseDecimals": 9,
+    "quoteDecimals": 9,
+    "fee": 0.0025,
+    "xReserve": "1000000000000000",
+    "yReserve": "1020000000000000",
+    "reserveSource": "cache",
+    "hasReserves": true,
+    "isMathReady": true
+  }
+]
